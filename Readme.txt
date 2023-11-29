@@ -17,3 +17,11 @@ Menggunakan image data generator.
 - Dapat memprediksi gambar yang diunggah ke Colab seperti gambar di bawah.
 202004302318257ec23b834046174a7d426680e488905e.png
 - Manambahkan data diri (sesuai profil Dicoding) pada submission/project yang dikirimkan.
+
+Submission Anda akan dinilai oleh reviewer dengan penilaian bintang berskala 1-5 berdasarkan dari parameter yang ada.
+Anda dapat menerapkan beberapa saran untuk mendapatkan nilai tinggi, berikut sarannya:
+- Akurasi dari model di atas 85%
+- Anda menggunakan lebih dari 1 hidden layer.
+- Menerapkan lebih banyak augmentasi gambar.
+- Anda menggunakan optimizer dan loss-function yang tidak diajarkan di kelas.
+
