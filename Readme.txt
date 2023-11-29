@@ -2,7 +2,7 @@
 Nama : Fiko Aditama
 email: fikoaditama114@gmail.com
 
-[![N|](202004302318257ec23b834046174a7d426680e488905e.png)]
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](202004302318257ec23b834046174a7d426680e488905e.png)
 
 Berikut kriteria submission yang harus Anda penuhi:
 - Dataset yang dipakai haruslah dataset berikut : rockpaperscissors, atau gunakan link ini pada wget command: https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip.
@@ -17,4 +17,3 @@ Menggunakan image data generator.
 - Dapat memprediksi gambar yang diunggah ke Colab seperti gambar di bawah.
 202004302318257ec23b834046174a7d426680e488905e.png
 - Manambahkan data diri (sesuai profil Dicoding) pada submission/project yang dikirimkan.
-
